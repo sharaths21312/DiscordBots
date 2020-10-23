@@ -43,6 +43,7 @@ How to use it?
     python -m pip install -U discord.py
     
     => Open Terminal (if you are on mac on linux) and run either of
+    => Note: A $ in the start of a unix-style terminal command signifies that it is to be run normally, and a # signifies that it should run with elevated priveleges (either as root, or with sudo)
     
     # apt-get install python3-discord.py (Ubuntu/debian based distributions only) 
     $ pip3 install -U discord.py (general)
