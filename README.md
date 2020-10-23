@@ -37,6 +37,7 @@ How to use it?
 
 # Common Errors:
 -> If you get the error module Discord not found:
+    Note: At least for now, this doesn't seem to work with python 3.9    
 
     => Open cmd or powershell (if you are in windows) and run either of
     pip install -U discord.py
