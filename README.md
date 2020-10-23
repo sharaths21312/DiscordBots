@@ -1,5 +1,8 @@
-# AmongUsBot
-This is the new Among Us bot that I created
+# Discord Bots
+These are a few Discord bots that I created
+
+#Amomg Us Bot
+To call your friends for a game of among us Anytime you want!
 
 Features:
 -> Call your friends for Among Us anytime you like
@@ -15,7 +18,21 @@ How to use it?
 -> Open that file and run it
 -> Now the bot would get activated
 
-Errors:
+# Study Bot
+Know the portions for exams using this bot!
+
+Features:
+-> Type the subject name and the exam type to get the portions up to date
+
+How to use it?
+-> Download the zip file of this repository
+    => On top right of the page find an option called "code" with a download symbol
+    => Click on it and download zip file
+
+-> Find "StudyBot.py" file
+-> Open that file and run it
+
+# Common Errors:
 -> If you get any errors such as: module Discord not found:
     => Open cmd (if you are in windows)
     => Type pip install discord.py
