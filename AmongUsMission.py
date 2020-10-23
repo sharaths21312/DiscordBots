@@ -86,4 +86,4 @@ async def cmd(ctx):
                     "Then, you could start. Crewmates(or imposters) are supposed to join by reacting to the bot's message".format(ctx.message.author.mention))
 
 
-bot.run('NzYyNjUwODc5NjUxNDc5NTYz.X3sP-w.UD8LhE8tUug72CnUIgZ6Y7g1tQA')
+bot.run('TOKEN')
